@@ -1,0 +1,11 @@
+SOFT
+- educational robotic
+- mount of information
+- data ingestion
+- information search automation
+
+HARD
+- web scraping
+- web crawler
+- python
+- firebase
